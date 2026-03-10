@@ -6,8 +6,8 @@ Interactive resume/portfolio website built for GitHub Pages.
 
 | Version | URL |
 |---------|-----|
-| V1 — Dark Terminal | `https://YOUR_USERNAME.github.io/` |
-| V2 — Editorial | `https://YOUR_USERNAME.github.io/v2.html` |
+| V1 — Dark Terminal | `https://govindkumar-ai.github.io/` |
+| V2 — Editorial | `https://govindkumar-ai.github.io/v2.html` |
 
 ---
 
